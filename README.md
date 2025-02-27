@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Adın] 👋</h1>
+<h1 align="center">Hi there, I'm Fatih 👋</h1>
 
 💻 **Computer Engineer** | AI & Finance Enthusiast  
 📊 Developing AI-powered financial models & automation tools  
