@@ -9,11 +9,10 @@
 ---
 
 ### 🔥 My Projects  
-- **📊 AI-Based Stock Market Prediction** - [GitHub Repo Link]  
-- **🤖 Trading Bot with Deep Learning** - [GitHub Repo Link]  
-- **🎮 VR Wheelchair Simulator** - [GitHub Repo Link]  
-- **📊 Personalized Health & Wellness Dashboard** - [GitHub Repo Link]  
-- **🚗 Car Rental Website** - [GitHub Repo Link]  
+- **📊 AI-Based Stock Market Prediction** 
+- **🤖 Trading Bot with Deep Learning**   
+- **📊 Personalized Health & Wellness Dashboard**  
+- **🚗 Car Rental Website**   
 
 ---
 
