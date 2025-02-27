@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm [Adın] 👋</h1>
 
-<!--
-**fatihyuksekdagg/fatihyuksekdagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineer** | AI & Finance Enthusiast  
+📊 Developing AI-powered financial models & automation tools  
+🚀 Tech: Python, C, C++, SQL, TensorFlow, JavaScript, HTML, CSS  
+📌 Passionate about AI, finance, and software development  
+🤝 Open to collaboration & open-source projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 My Projects  
+- **📊 AI-Based Stock Market Prediction** - [GitHub Repo Link]  
+- **🤖 Trading Bot with Deep Learning** - [GitHub Repo Link]  
+- **🎮 VR Wheelchair Simulator** - [GitHub Repo Link]  
+- **📊 Personalized Health & Wellness Dashboard** - [GitHub Repo Link]  
+- **🚗 Car Rental Website** - [GitHub Repo Link]  
+
+---
+
+### 📫 How to reach me  
+📩 Email: [E-posta adresin]  
+🔗 LinkedIn: [LinkedIn Profil Linkin]  
+🌐 Portfolio: [Varsa Kişisel Websiten]  
