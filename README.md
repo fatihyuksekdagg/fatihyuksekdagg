@@ -18,6 +18,5 @@
 ---
 
 ### 📫 How to reach me  
-📩 Email: [E-posta adresin]  
-🔗 LinkedIn: [LinkedIn Profil Linkin]  
-🌐 Portfolio: [Varsa Kişisel Websiten]  
+📩 Email: fatihyuksekdagg@gmail.com 
+
