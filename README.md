@@ -1,6 +1,6 @@
 # Hi, I'm Fatih Yüksekdağ 👋
 
-Junior AI Engineer | Python · Flask · TensorFlow · React Native · TypeScript
+Junior AI Engineer and Computer Engineer | Python · Flask · TensorFlow · React Native · TypeScript
 
 I build data-driven web apps, ML models, and mobile applications. Passionate about turning financial data and AI into useful products.
 
